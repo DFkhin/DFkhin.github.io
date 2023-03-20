@@ -50,7 +50,7 @@
 
  .heading span {
    font-size: var(--p-font);
-   color: rgb(2, 166, 70);
+   color: rgb(48, 48, 253);
  }
 
  header {
@@ -82,7 +82,7 @@
  .logo span {
    font-size: 1.61rem;
    font-weight: 600;
-   color: crimson;
+   color: rgb(24, 24, 145);
  }
 
  .navbar {
